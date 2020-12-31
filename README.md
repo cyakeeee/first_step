@@ -1,7 +1,3 @@
-# git_learning
-Git Hub実践ハンズオン
+# GitHub使い方メモ
 
-変更してみたよ！
-追記
 
-developブランチを追加したよ！
